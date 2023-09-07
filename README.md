@@ -23,7 +23,7 @@ You can concat me via:
 - [three-multi-select](https://github.com/andrewisen-tikab/three-multi-select)
 - [three-spatial-hash-grid](https://github.com/andrewisen-tikab/three-spatial-hash-grid)
 - [three-fifo-cache](https://github.com/andrewisen-tikab/three-fifo-cache)
-- [https://github.com/andrewisen-tikab/three-bcf](https://github.com/andrewisen-tikab/three-bcf)
+- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
 
 **✨ BIM**
 
