@@ -24,6 +24,7 @@ You can concat me via:
 - [three-spatial-hash-grid](https://github.com/andrewisen-tikab/three-spatial-hash-grid)
 - [three-fifo-cache](https://github.com/andrewisen-tikab/three-fifo-cache)
 - [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
+- [three-timeline](https://github.com/andrewisen-tikab/three-timeline)
 
 **✨ BIM**
 
