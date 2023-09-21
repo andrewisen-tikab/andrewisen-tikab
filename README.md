@@ -1,13 +1,38 @@
 ## Hej 👋
 
-I'm a civil engineer and programmer based in Sweden.
-I create apps for the web that helps people visilize data, information and buildings.
+I'm a civil engineer and programmer based in Stockholm, Sweden.
+I create apps for the web that helps people visilize data, information, buildings and products.
+I also create games on the web.
 
-Most of my projets are under NDA and closed sources.
-However, I share some of my ideas here.
+Most of my projets are under strict NDAs, and are closed sources.
+
+However, I share some of my toughts and ideas here.
 
 Feel free to get inspiration and grab parts of my code. Submit a PR if you feel like it.
 Most of my projects here on GitHub are just for fun :)
+
+### I know:
+
+![](https://img.shields.io/static/v1?label&message=WEB-DEVELOPMENT&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=3D&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=BIM&style=for-the-badge&color=black)
+
+### I speak:
+
+![](https://img.shields.io/static/v1?label&message=English&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Swedish&style=for-the-badge&color=black)
+
+### I write:
+
+![](https://img.shields.io/static/v1?label&logo=typescript&message=TypeScript&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=python&message=Python&style=for-the-badge&color=black&logoColor=white)
+
+### I use:
+
+![](https://img.shields.io/static/v1?label&logo=three.js&message=THREE.js&style=for-the-badge&color=black&logoColor=white)
+![](https://img.shields.io/static/v1?label&logo=react&message=React&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=docker&message=docker&style=for-the-badge&color=black&logoColor=white)
+![](https://img.shields.io/static/v1?label&logo=django&message=Django&style=for-the-badge&color=black&logoColor=green)
 
 ## Contact
 
@@ -35,6 +60,7 @@ You can concat me via:
 
 - [error-manager](https://github.com/andrewisen-tikab/error-manager)
 - [sej](https://github.com/andrewisen-tikab/sej)
+
 
 
 
