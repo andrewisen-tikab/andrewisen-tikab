@@ -11,6 +11,29 @@ However, I share some of my toughts and ideas here.
 Feel free to get inspiration and grab parts of my code. Submit a PR if you feel like it.
 Most of my projects here on GitHub are just for fun :)
 
+## Projects
+
+**✨ three.js**
+
+- [three-shape-3d](https://github.com/andrewisen-tikab/three-shape-3d)
+- [three-multi-select](https://github.com/andrewisen-tikab/three-multi-select)
+- [three-spatial-hash-grid](https://github.com/andrewisen-tikab/three-spatial-hash-grid)
+- [three-fifo-cache](https://github.com/andrewisen-tikab/three-fifo-cache)
+- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
+- [three-timeline](https://github.com/andrewisen-tikab/three-timeline)
+
+**✨ BIM**
+
+- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
+- [bim-whale](https://github.com/andrewisen/bim-whale)
+
+**✨ Misc.**
+
+- [error-manager](https://github.com/andrewisen-tikab/error-manager)
+- [sej](https://github.com/andrewisen-tikab/sej)
+
+## About me
+
 ### I know:
 
 ![](https://img.shields.io/static/v1?label&message=WEB-DEVELOPMENT&style=for-the-badge&color=black)
@@ -39,28 +62,5 @@ Most of my projects here on GitHub are just for fun :)
 You can concat me via:
 
 <img src="https://andrewisen.se/mail.jpg" width="350" title="Mail">
-
-## Projects
-
-**✨ three.js**
-
-- [three-shape-3d](https://github.com/andrewisen-tikab/three-shape-3d)
-- [three-multi-select](https://github.com/andrewisen-tikab/three-multi-select)
-- [three-spatial-hash-grid](https://github.com/andrewisen-tikab/three-spatial-hash-grid)
-- [three-fifo-cache](https://github.com/andrewisen-tikab/three-fifo-cache)
-- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
-- [three-timeline](https://github.com/andrewisen-tikab/three-timeline)
-
-**✨ BIM**
-
-- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
-- [bim-whale](https://github.com/andrewisen/bim-whale)
-
-**✨ Misc.**
-
-- [error-manager](https://github.com/andrewisen-tikab/error-manager)
-- [sej](https://github.com/andrewisen-tikab/sej)
-
-
 
 
