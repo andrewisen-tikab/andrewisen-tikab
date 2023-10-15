@@ -35,6 +35,7 @@ Most of my projects here on GitHub are just for fun :)
 
 - [error-manager](https://github.com/andrewisen-tikab/error-manager)
 - [sej](https://github.com/andrewisen-tikab/sej)
+- [happy-ending](https://github.com/andrewisen-tikab/happy-ending)
 
 ## About me
 
