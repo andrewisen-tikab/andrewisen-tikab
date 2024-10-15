@@ -22,6 +22,7 @@ Most of my projects here on GitHub are just for fun :)
 - [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
 - [three-timeline](https://github.com/andrewisen-tikab/three-timeline)
 - [three-line-network](https://github.com/andrewisen-tikab/three-line-network)
+- [three-gamepad](https://github.com/andrewisen-tikab/three-gamepad)
 
 **✨ BIM**
 
