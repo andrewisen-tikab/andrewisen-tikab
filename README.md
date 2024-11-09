@@ -1,11 +1,9 @@
 ## Hej 👋
 
-I'm a civil engineer and programmer based in Stockholm, Sweden.
-I create apps for the web that helps people visilize data, information, buildings and products.
-I also create games on the web.
+I'm a civil engineer based in Stockholm, Sweden.
+I create apps that helps people visilize data, information, buildings and products.
 
-Most of my projets are under strict NDAs, and are closed sources.
-
+Most of my projets are under strict NDAs, and are therefore closed sources.
 However, I share some of my toughts and ideas here.
 
 Feel free to get inspiration and grab parts of my code. Submit a PR if you feel like it.
@@ -15,19 +13,27 @@ Most of my projects here on GitHub are just for fun :)
 
 **✨ three.js**
 
-- [three-shape-3d](https://github.com/andrewisen-tikab/three-shape-3d)
-- [three-multi-select](https://github.com/andrewisen-tikab/three-multi-select)
-- [three-spatial-hash-grid](https://github.com/andrewisen-tikab/three-spatial-hash-grid)
-- [three-fifo-cache](https://github.com/andrewisen-tikab/three-fifo-cache)
-- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
-- [three-timeline](https://github.com/andrewisen-tikab/three-timeline)
-- [three-line-network](https://github.com/andrewisen-tikab/three-line-network)
-- [three-gamepad](https://github.com/andrewisen-tikab/three-gamepad)
+- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)  
+- [three-fifo-cache](https://github.com/andrewisen-tikab/three-fifo-cache)  
+- [three-gamepad](https://github.com/andrewisen-tikab/three-gamepad)  
+- [three-line-network](https://github.com/andrewisen-tikab/three-line-network)  
+- [three-multi-select](https://github.com/andrewisen-tikab/three-multi-select)  
+- [three-object-controls](https://github.com/andrewisen-tikab/three-object-controls)  
+- [three-shape-3d](https://github.com/andrewisen-tikab/three-shape-3d)  
+- [three-spatial-hash-grid](https://github.com/andrewisen-tikab/three-spatial-hash-grid)  
+- [three-timeline](https://github.com/andrewisen-tikab/three-timeline)  
+
+**✨ Controls**
+
+- [three-gamepad](https://github.com/andrewisen-tikab/three-gamepad)  
+- [three-multi-select](https://github.com/andrewisen-tikab/three-multi-select)  
+- [three-object-controls](https://github.com/andrewisen-tikab/three-object-controls)  
+- [three-shape-3d](https://github.com/andrewisen-tikab/three-shape-3d)  
 
 **✨ BIM**
 
-- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
 - [bim-whale](https://github.com/andrewisen/bim-whale)
+- [three-bcf](https://github.com/andrewisen-tikab/three-bcf)
 
 **✨ Rock Engineering**
 
